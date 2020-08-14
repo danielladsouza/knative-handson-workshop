@@ -4,7 +4,7 @@
 
 We will use pre-provisioned Kubernetes clusters on the IBM Cloud for this workshop. You need an IBM Cloud Account to assign yourself one of these clusters:
 
-1. You can register at [https://cloud.ibm.com](https://cloud.ibm.com).
+1. You can register at [https://cloud.ibm.com](https://ibm.biz/Bdq8Vt).
 
     We need your email address, a password, your name, and your country. 
     
@@ -19,10 +19,13 @@ We will use pre-provisioned Kubernetes clusters on the IBM Cloud for this worksh
 In this step you will assign yourself a pre-provisioned cluster. 
 
 1. Your lab instructor will provide a link to an application and a "lab key". Open the application in your browser:
+
+   ###### **Today's Link to the Lab Cluster:  https://vko.mybluemix.net**
+  
    ![granttool1](images/granttool1.png)
    
 2. Enter the lab key provided and your IBMid (it is the email address you used to register at the IBM Cloud), agree to the T&Cs, and click "Submit":
-   ![granttool1](images/granttool2.png)
+   ![granttool2](images/granttool2.png)
    
    Of course your cluster will be named differently and the lab account you need to select from the pull-down in the IBM Cloud Dashboard is **1840867 - Advowork**.
    
@@ -50,7 +53,7 @@ We will work with the cluster in the command line mostly, using different CLIs. 
    ```
    ibmcloud ks cluster ls
    ```
-   This should display the name of your cluster, its ID, and a few other things
+   This should display the name of your cluster, its ID, when it was created, how many workers, and a few other vital info.
 1. Create an environment variable $CLUSTER_NAME that contains the name of your cluster.
   
    Example:
