@@ -75,11 +75,11 @@ We will work with the cluster in the command line mostly, using different CLIs. 
 In your Cloud Shell enter the following command to download the code from Github:
 
 ```
-git clone https://github.com/Harald-U/knative-handson-workshop.git
-cd knative-handson-workshop/code
+git clone https://github.com/mgrygles/knative-handson-workshop.git
+cd knative-handson-workshop/code-vertx-aug14
 ```
 
 ---
-
+WAIT for 
 __Continue with the next part [Installing Knative](2-InstallKnative.md)__
       
