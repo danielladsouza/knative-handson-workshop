@@ -4,7 +4,7 @@
 
 We will use pre-provisioned Red Hat OpenShift clusters on the IBM Cloud for this workshop. You need an IBM Cloud Account to assign yourself one of these clusters:
 
-1. You can register at [https://cloud.ibm.com](https://cloud.ibm.com).
+1. You can register at [https://cloud.ibm.com](https://ibm.biz/BdqA52).
 
     We need your email address, a password, your name, and your country. 
     
@@ -19,6 +19,9 @@ We will use pre-provisioned Red Hat OpenShift clusters on the IBM Cloud for this
 In this step you will assign yourself a pre-provisioned cluster. 
 
 1. Your lab instructor will provide a link to an application and a "lab key". Open the application in your browser:
+
+   Sign up for the Free Openshift Lab cluster here: **https://knvtxos.mybluemix.net/**
+
    ![granttool1](images/granttool1.png)
    
 2. Enter the lab key provided and your IBMid (it is the email address you used to register at the IBM Cloud), agree to the T&Cs, and click "Submit":
