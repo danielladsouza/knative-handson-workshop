@@ -20,7 +20,7 @@ In this step you will assign yourself a pre-provisioned cluster.
 
 1. Your lab instructor will provide a link to an application and a "lab key". Open the application in your browser:
 
-   Sign up for the Free Openshift Lab cluster here: **https://knvtxos.mybluemix.net/**
+   Sign up for the Free Openshift Lab cluster here: **https://osknvtx.mybluemix.net/**  **key: osLab**
 
    ![granttool1](images/granttool1.png)
    
